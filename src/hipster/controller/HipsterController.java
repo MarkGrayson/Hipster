@@ -1,5 +1,6 @@
 package hipster.controller;
 
+import hipster.view.HipsterFrame;
 import hipster.model.Hipster;
 //import hipster.view.HipsterFrame;
 
