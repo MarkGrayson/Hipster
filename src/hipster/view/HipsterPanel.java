@@ -48,5 +48,7 @@ public class HipsterPanel extends JPanel
 				wordsLabel.setText(selectedText);
 			}
 		});
+		
+		
 	}
 }
